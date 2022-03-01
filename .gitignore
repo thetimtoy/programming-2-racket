@@ -1,1 +1,5 @@
 .DS_Store
+*.rkt~
+
+
+problem sets/completed/
